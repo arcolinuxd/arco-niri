@@ -52,6 +52,7 @@ archlinux-logout-git
 arcolinux-config-all-desktops-git
 arcolinux-dconf-all-desktops-git
 arcolinux-niri-git
+arcolinux-pywal-cache-git
 arcolinux-wallpapers-git
 arcolinux-wayland-app-hooks-git 
 arconet-xfce
