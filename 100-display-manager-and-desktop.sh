@@ -56,13 +56,24 @@ arcolinux-pywal-cache-git
 arcolinux-wallpapers-git
 arcolinux-wayland-app-hooks-git 
 arconet-xfce
+dex
 feh
+grim
+lxappearance
+mako
 niri
 nerd-fonts-source-code-pro
+python-pywal
 rofi-lbonn-wayland
+swaybg
 thunar
 thunar-archive-plugin
 thunar-volman
+ttf-jetbrains-mono-nerd
+waybar-git
+wofi
+xwayland-satellite
+yad
 )
 
 count=0
